@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/students/2019/ip917s13/Рабочий стол/lba1/lab1/main.c
+msc.h
+/home/students/2019/ip917s13/Рабочий стол/lba1/lab1/msc.h
+stdlib.h
+-
+stdio.h
+-
+
+/home/students/2019/ip917s13/Рабочий стол/lba1/lab1/msc.h
+stdlib.h
+-
+stdio.h
+-
+
